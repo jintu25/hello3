@@ -96,7 +96,8 @@ body {
     width: 100px;
     height: 100px;
     float: center;
-    margin-left: 25px;
+    margin-left: 18px;
+    margin-top: 40px;
     animation: pulse 1s infinite;
 }
 .heart:before,
