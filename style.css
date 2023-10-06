@@ -27,7 +27,7 @@ body {
   
   h2 {
     color: #fff;
-    font-size: 35px;
+    font-size: 42px;
     margin-top: 20px;
     font-family: cursive;
     animation: fadeInUp 1s ease-in-out; /* Add a fade-in animation to h2 */
@@ -36,12 +36,13 @@ body {
   
   h3 {
     color: rgb(255, 11, 11);
-    font-size: 35px;
+    font-size: 42px;
   }
    h6 {
     color: #50fc0c;
-    font-size: 40px;
+    font-size: 45px;
     margin-top: 20px;
+    padding-bottom: 30px;
     margin-bottom: 20px;
     animation: fadeInUp 1s ease-in-out; /* Add a fade-in animation to h2 */
   }
@@ -97,7 +98,7 @@ body {
     height: 100px;
     float: center;
     margin-left: 18px;
-    margin-top: 40px;
+    margin-top: 50px;
     animation: pulse 1s infinite;
 }
 .heart:before,
